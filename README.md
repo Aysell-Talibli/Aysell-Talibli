@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Aysell-Talibli/Aysell-Talibli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Aysel Talibli, a backend developer with a keen interest in tech, software development, and continuous learning. I enjoy exploring new programming languages, working on creative projects, and collaborating with others in the tech community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Interests
+
+- Programming Languages: (Java, Python, Sql)
+- Databases & Frameworks: (Spring Boot, Postgresql, Django)
+- Tools: (Git, Github, Gitlab, Docker, Gradle, Maven)
+- Others: Microservices, monolith, Kafka, Liqubaise
+- Interests: Open source, Problem Solving
+
+## 📫 How to Reach Me
+
+- Gitlab: [Aysell-Talibli](https://gitlab.com/ayseltalibli)
+- Email: aysel.talibli01@gmail.com
+
+
+Thank you for visiting my profile! Let's connect and build something amazing together. 🚀
